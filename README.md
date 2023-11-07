@@ -26,7 +26,7 @@
 - [x] 기본배송지 신규배송지 관리
 ---
 # COMMUNITY
-![ezgif com-video-to-gif (4)](https://github.com/daekk74/sweethome/assets/145513812/57688b5c-d9d2-418b-b217-592f2516e11e)
+![KakaoTalk_20231103_184833645](https://github.com/dongdonglee0/dongdonglee0/assets/145513812/c5c83bb2-5a45-4a9c-97e4-d3c7917d31cf)
 - [x] 글쓰기, 댓글 작성, 게시글 검색
 - [x] 좋아요, 스크랩
 - [x] 상품 공유하기
