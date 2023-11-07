@@ -12,7 +12,7 @@
 ---
 
 # PRODUCT
-![ezgif com-video-to-gif (1)](https://github.com/daekk74/sweethome/assets/145513812/9e6ca81e-3f56-4dab-91ed-728509272dc9)
+![ezgif com-video-to-gif](https://github.com/dongdonglee0/dongdonglee0/assets/145513812/b97f93e4-9e22-4f87-9fb3-60b7d00f5fa0)
 - [x] 베스트 아이템 조회
 - [x] 상품 장바구니 추가/삭제
 - [x] 상품 음성 검색 
