@@ -10,6 +10,8 @@
 * BootStrap 4<br>
 * AWS
 ---
+![KakaoTalk_20231103_184833645_04](https://github.com/dongdonglee0/dongdonglee0/assets/145513812/dcb2c0c5-b983-4aac-898f-64c77e07d25e)
+
 # PRODUCT
 ![ezgif com-video-to-gif (1)](https://github.com/daekk74/sweethome/assets/145513812/9e6ca81e-3f56-4dab-91ed-728509272dc9)
 - [x] 베스트 아이템 조회
