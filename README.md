@@ -10,7 +10,6 @@
 * BootStrap 4<br>
 * AWS
 ---
-![KakaoTalk_20231103_184833645_04](https://github.com/dongdonglee0/dongdonglee0/assets/145513812/dcb2c0c5-b983-4aac-898f-64c77e07d25e)
 
 # PRODUCT
 ![ezgif com-video-to-gif (1)](https://github.com/daekk74/sweethome/assets/145513812/9e6ca81e-3f56-4dab-91ed-728509272dc9)
@@ -33,8 +32,7 @@
 - [x] 상품 공유하기
 ---
 # MEMBER
-![ezgif com-gif-maker (1)](https://github.com/daekk74/sweethome/assets/145513812/fb82009f-0d07-4309-90aa-eb0b41c963f2)
-- [x] 이메일 인증, 타이머
+![KakaoTalk_20231103_184833645_04](https://github.com/dongdonglee0/dongdonglee0/assets/145513812/dcb2c0c5-b983-4aac-898f-64c77e07d25e)- [x] 이메일 인증, 타이머
 - [x] 도로명주소 API
 - [x] 아이디, 비밀번호, 전화번호 정규식
 - [x] 아이디 중복체크
