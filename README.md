@@ -20,7 +20,7 @@
 - [x] 상품별 리뷰등록 및 상품별 별점분석
 ---
 # ORDER
-![ezgif com-gif-maker](https://github.com/daekk74/sweethome/assets/145513812/ed8c7774-43db-4ea7-b778-8922f3fb9e55)
+![KakaoTalk_20231103_184833645_01 (1)](https://github.com/dongdonglee0/sweethome/assets/145513812/89fdb1fc-320e-4bfe-b444-111f8954b84b)
 - [x] 카카오페이 api 결제
 - [x] 쿠폰 할인
 - [x] 기본배송지 신규배송지 관리
@@ -32,7 +32,8 @@
 - [x] 상품 공유하기
 ---
 # MEMBER
-![KakaoTalk_20231103_184833645_04](https://github.com/dongdonglee0/dongdonglee0/assets/145513812/dcb2c0c5-b983-4aac-898f-64c77e07d25e)- [x] 이메일 인증, 타이머
+![KakaoTalk_20231103_184833645_04](https://github.com/dongdonglee0/dongdonglee0/assets/145513812/dcb2c0c5-b983-4aac-898f-64c77e07d25e)
+- [x] 이메일 인증, 타이머
 - [x] 도로명주소 API
 - [x] 아이디, 비밀번호, 전화번호 정규식
 - [x] 아이디 중복체크
